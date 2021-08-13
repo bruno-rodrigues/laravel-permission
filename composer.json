@@ -1,6 +1,6 @@
 {
-    "name": "spatie/laravel-permission",
-    "description": "Permission handling for Laravel 6.0 and up",
+    "name": "bruno-rodrigues/laravel-permission",
+    "description": "Permission handling for Laravel 6.0 and up. Forked from spatie/laravel-permission",
     "keywords": [
         "spatie",
         "laravel",
